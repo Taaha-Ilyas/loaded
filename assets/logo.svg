@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 400">
+<defs>
+<linearGradient id="lt" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe066"/><stop offset=".55" stop-color="#ffb52e"/><stop offset="1" stop-color="#ff7a1a"/></linearGradient>
+<linearGradient id="lb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6b067"/><stop offset="1" stop-color="#c9722e"/></linearGradient>
+</defs>
+<g transform="translate(205 6) scale(.42)">
+<g stroke="#3a1a08" stroke-width="15" stroke-linejoin="round">
+<rect x="108" y="340" width="296" height="62" rx="28" fill="url(#lb)"/>
+<rect x="94" y="292" width="324" height="60" rx="28" fill="#6e3a1f"/>
+<path d="M98 270 H414 V292 H376 Q368 336 352 292 H262 Q252 346 238 292 H156 Q146 322 136 292 H98 Z" fill="#ffc93c"/>
+<path d="M90 262 q20 -20 41.5 0 t41.5 0 t41.5 0 t41.5 0 t41.5 0 t41.5 0 t41.5 0 t41.5 0 v14 H90 Z" fill="#5fc046"/>
+<path d="M100 258 C100 112 412 112 412 258 Z" fill="url(#lb)"/>
+</g>
+<g fill="#fff4d6"><ellipse cx="190" cy="196" rx="12" ry="7"/><ellipse cx="250" cy="170" rx="12" ry="7"/><ellipse cx="310" cy="190" rx="12" ry="7"/><ellipse cx="226" cy="222" rx="12" ry="7"/><ellipse cx="290" cy="228" rx="12" ry="7"/><ellipse cx="350" cy="226" rx="11" ry="6"/><ellipse cx="160" cy="232" rx="11" ry="6"/></g>
+</g>
+<path d="M120 318 q0 40 10 40 q10 0 10 -40 Z M236 318 q0 58 12 58 q12 0 12 -58 Z M392 318 q0 34 9 34 q9 0 9 -34 Z M500 318 q0 48 11 48 q11 0 11 -48 Z" fill="#ffc93c" stroke="#3a1a08" stroke-width="8" stroke-linejoin="round"/>
+<text x="310" y="322" text-anchor="middle" font-family="Fredoka, system-ui, sans-serif" font-weight="700" font-size="152" letter-spacing="2" fill="url(#lt)" stroke="#3a1a08" stroke-width="22" stroke-linejoin="round" paint-order="stroke">LOADED</text>
+<path d="M88 214 l7 18 18 7 -18 7 -7 18 -7 -18 -18 -7 18 -7z M548 196 l9 22 22 9 -22 9 -9 22 -9 -22 -22 -9 22 -9z" fill="#fff"/>
+</svg>

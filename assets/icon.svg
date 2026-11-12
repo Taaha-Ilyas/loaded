@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffb23d"/><stop offset="1" stop-color="#e2541b"/></linearGradient>
+<linearGradient id="bun" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6b067"/><stop offset="1" stop-color="#c9722e"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".45" r=".55"><stop offset="0" stop-color="#fff3c4" stop-opacity=".6"/><stop offset="1" stop-color="#fff3c4" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="512" height="512" rx="112" fill="url(#bg)"/>
+<circle cx="256" cy="256" r="236" fill="url(#glow)"/>
+<g stroke="#3a1a08" stroke-width="13" stroke-linejoin="round">
+<rect x="108" y="340" width="296" height="62" rx="28" fill="url(#bun)"/>
+<rect x="94" y="292" width="324" height="60" rx="28" fill="#6e3a1f"/>
+<path d="M98 270 H414 V292 H376 Q368 336 352 292 H262 Q252 346 238 292 H156 Q146 322 136 292 H98 Z" fill="#ffc93c"/>
+<path d="M90 262 q20 -20 41.5 0 t41.5 0 t41.5 0 t41.5 0 t41.5 0 t41.5 0 t41.5 0 t41.5 0 v14 H90 Z" fill="#5fc046"/>
+<path d="M100 258 C100 112 412 112 412 258 Z" fill="url(#bun)"/>
+</g>
+<g fill="#fff4d6">
+<ellipse cx="190" cy="196" rx="12" ry="7" transform="rotate(-20 190 196)"/>
+<ellipse cx="250" cy="170" rx="12" ry="7" transform="rotate(10 250 170)"/>
+<ellipse cx="310" cy="190" rx="12" ry="7" transform="rotate(25 310 190)"/>
+<ellipse cx="226" cy="222" rx="12" ry="7" transform="rotate(-5 226 222)"/>
+<ellipse cx="290" cy="228" rx="12" ry="7" transform="rotate(15 290 228)"/>
+<ellipse cx="350" cy="226" rx="11" ry="6" transform="rotate(30 350 226)"/>
+<ellipse cx="160" cy="232" rx="11" ry="6" transform="rotate(-30 160 232)"/>
+</g>
+<path d="M146 214 Q160 168 214 152" stroke="#ffe7bf" stroke-width="14" stroke-linecap="round" fill="none" opacity=".75"/>
+<path d="M418 70 l11 28 28 11 -28 11 -11 28 -11 -28 -28 -11 28 -11z" fill="#fff"/>
+<path d="M90 108 l6 15 15 6 -15 6 -6 15 -6 -15 -15 -6 15 -6z" fill="#fff" opacity=".85"/>
+</svg>
